@@ -1,4 +1,11 @@
-### Hi there 👋
+
+
+### <h1 align="center"> Hi there👋, I'm Nibida Ghimire.</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=NibidaGhimire&label=Profile%20views&color=0e75b6&style=flat" alt="NibidaGhimire" /> </p>
+
+
+- 📫 **nibidaghimire39@gmail.com**
+
 
 <!--
 **NibidaGhimire/NibidaGhimire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
