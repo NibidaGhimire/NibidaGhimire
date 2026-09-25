@@ -3,9 +3,6 @@
 
 
 - 👨‍💻 Personal Website: [https://www.nibidaghimire.com.np/](https://www.nibidaghimire.com.np/)
-
-- 💬 Ask me about **mern**
-
 - 📫 How to reach me: **nibidaghimire39@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
